@@ -3,7 +3,7 @@ name: orquesta
 pack: examples
 description: Run a local linux command
 runner_type: orquesta
-entry_point: workflows/orquesta-basic.yaml
+entry_point: workflows/orquesta.yaml
 enabled: true
 parameters:
   cmd:
